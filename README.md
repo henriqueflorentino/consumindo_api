@@ -22,5 +22,8 @@ Basta então clicar para explorar a discografia completa da banda
 
 
 ### Faixas do álbum
->É possível vizuliazar todas as musicas de determinado álbum, para ver basta clicar sobre o mesmo
+>É possível vizuliazar todas as musicas de determinado álbum, para ver basta clicar sobre o mesmo. E para voltar basta clicar no botão
+
+![image](https://github.com/henriqueflorentino/consumindo_api/assets/94813609/6f69697d-83b0-42f3-bdbc-b134b0f8e7e5)
+
 
