@@ -3,9 +3,9 @@
 >Seja bem-vindo(a) ao projeto: "Pink Floyd - Discografia", que consiste em um site onde é possivel explorar o universo musical de umas das maiores bandas de todos os tempos "Pink Floyd", nesse projeto estou aplicando conhecimentos adquiridos em sala de aula sobre API's e implemento as suas funcionalidades em um site.
 
 ### 🔗 Confira o site!
-> Para dispostivos Mobile e Desktop
+> Para dispostivos Mobile e Desktop 
 
-[Kong VS Godzilla || Clique para jogar!](https://kongvsgodzilla.netlify.app/)
+[Pink Floyd - Discografia || Clique para acessar!](https://discfloyd.netlify.app/)
 
 ### ❓ Como usar:
 
@@ -26,5 +26,13 @@ Basta então clicar para explorar a discografia completa da banda
 >É possível vizuliazar todas as musicas de determinado álbum, para ver basta clicar sobre o mesmo, e para voltar basta clicar no botão
 
 ![image](https://github.com/henriqueflorentino/consumindo_api/assets/94813609/6f69697d-83b0-42f3-bdbc-b134b0f8e7e5)
+
+### 🎬 Demonstrativo:
+
+
+https://github.com/henriqueflorentino/consumindo_api/assets/94813609/84cc5ed9-55c8-41e7-8f09-46347cd32471
+
+
+
 
 
