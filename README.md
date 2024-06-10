@@ -18,5 +18,9 @@ Basta então clicar para explorar a discografia completa da banda
 
 >Além do botão para vizualizar os álbuns, o site possui também um sistema de barra de pesquisa, onde é possivel econtrar/filtrar o álbum pelo nome
 
-![image](https://github.com/henriqueflorentino/consumindo_api/assets/94813609/1622a5a1-c71a-421d-82ad-6d0a8f3d6269)
+![image](https://github.com/henriqueflorentino/consumindo_api/assets/94813609/a87fd9d8-d441-4f92-b8db-f4db8e1c2172)
+
+
+### Faixas do álbum
+>É possível vizuliazar todas as musicas de determinado álbum, para ver basta clicar sobre o mesmo
 
