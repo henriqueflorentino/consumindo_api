@@ -27,10 +27,13 @@ Basta então clicar para explorar a discografia completa da banda
 
 ![image](https://github.com/henriqueflorentino/consumindo_api/assets/94813609/6f69697d-83b0-42f3-bdbc-b134b0f8e7e5)
 
-### 🎬 Demonstrativo:
+### 🎬 Demonstrativo do site:
 
 
-https://github.com/henriqueflorentino/consumindo_api/assets/94813609/84cc5ed9-55c8-41e7-8f09-46347cd32471
+https://github.com/henriqueflorentino/consumindo_api/assets/94813609/36db7f63-8f06-4c4b-b5ea-1e45ad7120ec
+
+
+
 
 
 
