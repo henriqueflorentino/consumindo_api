@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Last.fm Album Viewer</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+<div id="app">
+    <header>
+        <h1>Pink Floyd - Discografia</h1>
+        <div class="controls" v-if="showSearch">
+            <input type="text" v-model="searchText" placeholder="Encontre o álbum">
+        </div>
+        <button @click="fetchAlbums">Vizualize os álbuns</button>
+    </header>
+    <main>
+        <div class="album-container" v-if="!selectedAlbum && albums.length > 0">
+            <ul>
+                <li v-for="album in filteredAlbums" :key="album.mbid" @click="fetchAlbumTracks(album)">
+                    <div class="album-card">
+                        <img :src="album.image[2]['#text']" alt="Album Cover">
+                        <p>{{ album.name }}</p>
+                        <p>{{ album.artist.name }}</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div v-else-if="selectedAlbum">
+            <button @click="selectedAlbum = null">Volte aos álbuns</button>
+            <h2>{{ selectedAlbum.name }} - {{ selectedAlbum.artist.name }}</h2>
+            <ul>
+                <li v-for="track in albumTracks" :key="track.name">
+                    <p>{{ track.name }}</p>
+                </li>
+            </ul>
+        </div>
+
+    </main>
+</div>
+<script src="index.js"></script>
+</body>
+</html>

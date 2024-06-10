@@ -1,0 +1,147 @@
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #181818;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.controls {
+    margin-top: 15px;
+}
+
+.controls input {
+    text-align: center;
+    padding: 10px;
+    font-size: 1em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    width: 440px
+}
+
+.controls button {
+    padding: 10px 15px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    background-color: #474747;
+    color: #bbbbbb;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+   
+}
+
+button{
+    margin-top: 10px; 
+
+}
+
+.controls button:hover {
+    background-color: #2f3336;
+}
+
+main {
+    padding: 20px;
+}
+
+.album-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ul {
+        font-family: 'Poppins', sans-serif;
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+li {
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #474747;
+    color: #bbbbbb;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+li:hover {
+    transform: scale(1.05);
+}
+
+.album-card {
+    text-align: center;
+    flex: 1 1 200px; 
+    margin: 10px; 
+}
+
+
+.album-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+button {
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    background-color: #474747;
+    color: #bbbbbb;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #2f3336;
+}
+
+@media (max-width: 768px) {
+    .controls input, .controls button {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .controls {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header {
+        padding: 10px;
+    }
+
+    header h1 {
+        font-size: 2em;
+    }
+
+    .album-card img {
+        width: 120px;
+        height: 120px;
+    }
+}
