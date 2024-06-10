@@ -2,10 +2,9 @@
 ![image](https://github.com/henriqueflorentino/consumindo_api/assets/94813609/a87fd9d8-d441-4f92-b8db-f4db8e1c2172)
 >Seja bem-vindo(a) ao projeto: "Pink Floyd - Discografia", que consiste em um site onde é possivel explorar o universo musical de umas das maiores bandas de todos os tempos "Pink Floyd", nesse projeto estou aplicando conhecimentos adquiridos em sala de aula sobre API's e implemento as suas funcionalidades em um site.
 
-### 🔗 Confira o site!
-> Para dispostivos Mobile e Desktop 
+### 💽 API utilizada:
+[Last FM API || Clique para acessar!](https://www.last.fm/api)
 
-[Pink Floyd - Discografia || Clique para acessar!](https://discfloyd.netlify.app/)
 
 ### ❓ Como usar:
 
@@ -32,9 +31,12 @@ Basta então clicar para explorar a discografia completa da banda
 
 https://github.com/henriqueflorentino/consumindo_api/assets/94813609/36db7f63-8f06-4c4b-b5ea-1e45ad7120ec
 
-### 💽 API utilizada:
-[Last FM API || Clique para acessar!](https://www.last.fm/api)
 
+
+### 🔗 Confira o site!
+> Para dispostivos Mobile e Desktop 
+
+[Pink Floyd - Discografia || Clique para acessar!](https://discfloyd.netlify.app/)
 
 
 
