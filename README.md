@@ -32,7 +32,8 @@ Basta então clicar para explorar a discografia completa da banda
 
 https://github.com/henriqueflorentino/consumindo_api/assets/94813609/36db7f63-8f06-4c4b-b5ea-1e45ad7120ec
 
-
+### 💽 API utilizada:
+[Last FM API || Clique para acessar!](https://www.last.fm/api)
 
 
 
