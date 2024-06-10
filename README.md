@@ -1,4 +1,4 @@
-#🏳️‍🌈⃤  Pink Floyd - Discografia (Trabalhando com API's)
+🏳️‍🌈⃤  Pink Floyd - Discografia (Trabalhando com API's)
 >Seja bem-vindo(a) ao projeto: "Pink Floyd - Discografia", que consiste em um site onde é possivel explorar o universo musical de umas das maiores bandas de todos os tempos "Pink Floyd", nesse projeto estou aplicando conhecimentos adquiridos em sala de aula sobre API's e implemento as suas funcionalidades em um site.
 
 ### 🔗 Confira o site!
