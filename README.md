@@ -17,3 +17,5 @@ Basta então clicar para explorar a discografia completa da banda
 ### ⚙️ Recursos:
 
 >Além do botão para vizualizar os álbuns, o site possui também um sistema de barra de pesquisa, onde é possivel econtrar/filtrar o álbum pelo nome
+![image](https://github.com/henriqueflorentino/consumindo_api/assets/94813609/1622a5a1-c71a-421d-82ad-6d0a8f3d6269)
+
